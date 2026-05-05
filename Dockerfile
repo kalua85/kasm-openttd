@@ -1,4 +1,4 @@
-FROM kasmweb/core-alpine-323:develop
+FROM kasmweb/core-alpine-323:develop-rolling
 USER root
 
 ENV HOME /home/kasm-default-profile
